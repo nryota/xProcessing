@@ -9,10 +9,12 @@ Xcode 4.6を対象としています。
 
 使い方は簡単、app/app.pdeにProcessingのコードを書いて実行するだけです。
 
+![画面例](http://cafe.eyln.com/GitHub/xProcessing/screenshot.jpg "ScreenShot")
+
 Extra
 -------
 オマケとしてJavaScriptとnativeAPI (ObjectiveC) の連携処理のサンプルが入っています。  
-連携しているコードはapp/xcode.jsとｘProcessing/P5ViewController.mにあります。
+連携しているコードはapp/xcode.jsとxProcessing/P5ViewController.mにあります。
 
 Attention
 -----------
