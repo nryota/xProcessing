@@ -4,7 +4,7 @@ xProcessing
 About
 --------
 iOSでただシンプルにProcessingを動かすためのプロジェクト一式です。  
-WebViewとprocessing.jsだけのシンプルな構成なのが特徴です。  
+UIWebViewとprocessing.jsだけのシンプルな構成なのが特徴です。  
 Xcode 4.6を対象としています。
 
 使い方は簡単、app/app.pdeにProcessingのコードを書いて実行するだけです。
