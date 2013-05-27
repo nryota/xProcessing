@@ -16,9 +16,11 @@ Extra
 オマケとしてJavaScriptとnativeAPI (ObjectiveC) の連携処理のサンプルが入っています。  
 連携しているコードはapp/xcode.jsとxProcessing/P5ViewController.mにあります。
 
+また実験的にWebGLを有効にしているため、P3Dで動かすこともできます。
+
 Attention
 -----------
-デフォルトでwebGLを有効にしていますが、これはあくまで実験用の処理です。  
+デフォルトでWebGLを有効にしていますが、これはあくまで実験用の処理です。  
 AppStoreに申請する際にはenableWebGLメソッドをプログラムから削除した方がよいかもしれません。
 
 #### P5ViewController.m
